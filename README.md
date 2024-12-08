@@ -1,1 +1,1 @@
-# sagemaker-lifecycle-example
+Example for Sagemaker Lifecycle configurations
